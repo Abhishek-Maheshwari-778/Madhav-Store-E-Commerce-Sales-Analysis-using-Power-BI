@@ -37,10 +37,8 @@ Data Modeling – Established relationships between multiple tables
 DAX (Data Analysis Expressions) – Created custom calculations and measures
 Interactive Visuals – Enhanced user experience with drill-through and drill-down features
 Slicers & Filters – Provided easy navigation and data exploration
-📂 Project Structure
-scss
-Copy
-Edit
+"""📂 Project Structure
+
 📁 Madhav-Store-E-Commerce-Analysis
 ├── 1.png
 ├── 2.png
@@ -55,7 +53,7 @@ Edit
 ├── Recording.mp4
 ├── dark-gradient.jpg
 └── README.md
-
+"""
 Explore the dashboard using the slicers and filters.
 🎥 Project Demo
 📹 Watch the Demo
